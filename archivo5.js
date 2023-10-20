@@ -1,3 +1,3 @@
 let comunicacion = "los espero en discord!!"
 
-// Voy!!
+// Este finde le metemos, el domingo yo puedo!
